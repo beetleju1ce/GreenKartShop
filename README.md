@@ -1,3 +1,3 @@
 # GreenKartShop
-A project in progress, that is used to practise ddr, selenium frameworks.
-Part of udemy's selium webdriver with java course.
+A project in progress, that is used to practise ddt and selenium frameworks.
+Part of udemy's selenium webdriver with java course.
